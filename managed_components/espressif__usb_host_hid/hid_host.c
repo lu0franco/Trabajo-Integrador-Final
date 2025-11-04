@@ -1525,3 +1525,4 @@ esp_err_t hid_class_request_set_protocol(hid_host_device_handle_t hid_dev_handle
 
     return hid_class_request_set(iface->parent, &set_proto);
 }
+
